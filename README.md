@@ -10,3 +10,6 @@ wget https://qzlink.oss-cn-beijing.aliyuncs.com/downloads/linux/install/fsgui/fs
 sh fsgui_centos_7.x_install.sh|tee fsgui-install.log
 2. Contact me to obtain the authorization verification code
 WeChat: liangbingyi2013
+
+
+source: https://zengqf.gitee.io/ifreeswitchgui/
